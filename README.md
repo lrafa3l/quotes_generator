@@ -33,4 +33,4 @@ The **Poetic Quote Generator** is a web-based application that generates random 
 
 ---
 
-Built with 💻, ☕, and 🤖 by lrafa3l.
+Built with 💻, ☕, and 🤖 by `lrafa3l`.
