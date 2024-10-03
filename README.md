@@ -1,6 +1,6 @@
-# Poetic Quote Generator
+# Quotes Generator
 
-The **Poetic Quote Generator** is a web-based application that generates random poetic phrases using AI. Built with HTML, CSS, and JavaScript, this project offers a creative way to explore beautiful and inspiring phrases with the power of artificial intelligence.
+The **Quotes Generator** is a web-based application that generates random poetic phrases using AI. Built with HTML, CSS, and JavaScript, this project offers a creative way to explore beautiful and inspiring phrases with the power of artificial intelligence.
 
 ## Features
 
@@ -19,12 +19,12 @@ The **Poetic Quote Generator** is a web-based application that generates random 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/poetic-quote-generator.git
+    git clone https://github.com/yourusername/quotes_generator.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd poetic-quote-generator
+    cd quotes_generator
 
 ## How to Use
 
